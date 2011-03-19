@@ -1,0 +1,36 @@
+img {
+  border: none;
+}
+
+.header {
+  width: 40%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  width: 80%;
+  margin-left:
+  auto; margin-right: auto;
+}
+
+.content h2 {
+  margin-bottom: 10px;
+}
+
+.item-title {
+  font-size: large;
+  font-weight: bold;
+}
+
+#nomark {
+  padding-top: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#nomark li {
+  list-style-type: none;
+}

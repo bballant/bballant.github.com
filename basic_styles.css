@@ -1,8 +1,17 @@
+html { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 img {
   border: none;
 }
 
 .header {
+  color: white;
   width: 40%;
   text-align: center;
   margin-left: auto;
